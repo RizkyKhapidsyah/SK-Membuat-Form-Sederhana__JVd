@@ -1,0 +1,88 @@
+[Main]
+SizeX=4155
+SizeY=2955
+[1]
+Name=Label_Nama
+Type=JLabel
+Value=Nama
+X= 120
+Y= 120
+SizeX= 1080
+SizeY= 360
+[2]
+Name=Label_Umur
+Type=JLabel
+Value=Umur
+X= 120
+Y= 480
+SizeX= 1080
+SizeY= 360
+[3]
+Name=Label_Alamat
+Type=JLabel
+Value=Alamat
+X= 120
+Y= 840
+SizeX= 1080
+SizeY= 360
+[4]
+Name=Label_TD1
+Type=JLabel
+Value=:
+X= 1440
+Y= 120
+SizeX= 240
+SizeY= 360
+[5]
+Name=Label_TD3
+Type=JLabel
+Value=:
+X= 1440
+Y= 840
+SizeX= 240
+SizeY= 360
+[6]
+Name=Label_TD2
+Type=JLabel
+Value=:
+X= 1440
+Y= 480
+SizeX= 240
+SizeY= 360
+[7]
+Name=Text_Nama
+Type=JTextField
+X= 1560
+Y= 120
+SizeX= 2400
+SizeY= 360
+[8]
+Name=Text_Umur
+Type=JTextField
+X= 1560
+Y= 480
+SizeX= 2400
+SizeY= 360
+[9]
+Name=Text_Alamat
+Type=JTextArea
+X= 1560
+Y= 840
+SizeX= 2400
+SizeY= 1320
+[10]
+Name=Button_OK
+Type=Button
+Value=OK
+X= 2880
+Y= 2280
+SizeX= 1080
+SizeY= 360
+[11]
+Name=Button_Batal
+Type=JButton
+Value=Batal
+X= 1680
+Y= 2280
+SizeX= 1080
+SizeY= 360
